@@ -70,6 +70,8 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
+## home page
+![home page](https://user-images.githubusercontent.com/77746680/169734573-066dbce3-c1f7-4bc7-b0f8-7ff975860736.png)
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).![create form](https://user-images.githubusercontent.com/77746680/169733046-066ada31-e418-43af-8f7b-d05d27bb60a8.png)
 ## Create form
